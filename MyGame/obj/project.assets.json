@@ -107,11 +107,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/elia/MonoGameTest/MyGame/MyGame.csproj",
+      "projectUniqueName": "/home/elia/source/GameDemo1/MyGame.csproj",
       "projectName": "MyGame",
-      "projectPath": "/home/elia/MonoGameTest/MyGame/MyGame.csproj",
+      "projectPath": "/home/elia/source/GameDemo1/MyGame.csproj",
       "packagesPath": "/home/elia/.nuget/packages/",
-      "outputPath": "/home/elia/MonoGameTest/MyGame/obj/",
+      "outputPath": "/home/elia/source/GameDemo1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/elia/.nuget/NuGet/NuGet.Config"
@@ -153,8 +153,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -163,7 +162,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/home/elia/.dotnet/sdk/6.0.408/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.116/RuntimeIdentifierGraph.json"
       }
     }
   }
